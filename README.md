@@ -7,7 +7,7 @@
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/flavioapereira/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg2NjY4NTQsNDY4NjU4ODEsNDY4Nj
-U4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwx
-MTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNjM2MjczNzUxLC0xMT
-cyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1NSwtMTQxNjg3
-MDYzOCw4ODcxNjczNjQsLTU3NDY4OTgwOCwtMTgyNjU1Nzg5N1
-19
+eyJoaXN0b3J5IjpbMTc4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NT
+g4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDEx
+OTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNz
+IxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcw
+NjM4LDg4NzE2NzM2NCwtNTc0Njg5ODA4LC0xODI2NTU3ODk3XX
+0=
 -->

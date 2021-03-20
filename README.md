@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Flavio 👨‍💻  
+<h1 align='center'>
+  Hi there 👋 I'm Flavio 👨‍💻
+</h1>
 
 
 
@@ -26,9 +28,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NjU4ODEsNDY4NjU4ODEsLTE5NDQyNz
-U3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwxMTk0NzgwNjcxLC0x
-NTYxMTkwNTc3LC0xNjM2MjczNzUxLC0xMTcyMTI1NTA1LC00Mz
-c5MTY1ODUsMTkzMDYzNDM1NSwtMTQxNjg3MDYzOCw4ODcxNjcz
-NjQsLTU3NDY4OTgwOCwtMTgyNjU1Nzg5N119
+eyJoaXN0b3J5IjpbLTg1MjE4NzMxOCw0Njg2NTg4MSw0Njg2NT
+g4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDEx
+OTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNz
+IxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcw
+NjM4LDg4NzE2NzM2NCwtNTc0Njg5ODA4LC0xODI2NTU3ODk3XX
+0=
 -->

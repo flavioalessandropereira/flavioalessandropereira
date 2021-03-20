@@ -13,6 +13,13 @@
 
 
 <p align='center'>
+
+  
+  <img src="https://img.shields.io/badge/Yahoo-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+ 
+</p>
+
+<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -46,11 +53,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMTY4NzMyLC04MDA0MTIyODUsLTk4Mj
-YyMTA3OCwxMjUwMjg5NzUxLDE2NzMxOTQwMjUsLTE0NjU2NTk0
-NiwzNTc2NzgwMzAsMTc4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NT
-g4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDEx
-OTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNz
-IxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcw
-NjM4XX0=
+eyJoaXN0b3J5IjpbLTQwMjEyODY2MywtODAwNDEyMjg1LC05OD
+I2MjEwNzgsMTI1MDI4OTc1MSwxNjczMTk0MDI1LC0xNDY1NjU5
+NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4NjU4ODEsNDY4Nj
+U4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwx
+MTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNjM2MjczNzUxLC0xMT
+cyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1NSwtMTQxNjg3
+MDYzOF19
 -->

@@ -12,12 +12,15 @@
 [![](https://img.shields.io/badge/Yahoo-flavioapereira@yahoo.com.br-red)](mailto:flavioapereira@yahoo.com.br)
 
 
+
 <p align='center'>
 
-  
-  <img src="https://img.shields.io/badge/Yahoo-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Yahoo-flavioapereira@yahoo.com.br-%00071C5.svg?&style=for-the-badge&logoColor=white" />
  
 </p>
+
+
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -53,7 +56,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjEyODY2MywtODAwNDEyMjg1LC05OD
+eyJoaXN0b3J5IjpbMjA1NzQ3MzkwNCwtODAwNDEyMjg1LC05OD
 I2MjEwNzgsMTI1MDI4OTc1MSwxNjczMTk0MDI1LC0xNDY1NjU5
 NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4NjU4ODEsNDY4Nj
 U4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwx

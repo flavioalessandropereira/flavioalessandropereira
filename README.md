@@ -10,7 +10,13 @@
 </p> 
 
 
-
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+ 
+</p>
   
 
 
@@ -38,10 +44,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzE5NDAyNSwtMTQ2NTY1OTQ2LDM1Nz
-Y3ODAzMCwxNzg2MDEwNzEyLDQ2ODY1ODgxLDQ2ODY1ODgxLC0x
-OTQ0Mjc1NzYsMTk2ODE1MjY1NSwtNzA4MjEyMjAsMTE5NDc4MD
-Y3MSwtMTU2MTE5MDU3NywtMTYzNjI3Mzc1MSwtMTE3MjEyNTUw
-NSwtNDM3OTE2NTg1LDE5MzA2MzQzNTUsLTE0MTY4NzA2MzgsOD
-g3MTY3MzY0LC01NzQ2ODk4MDgsLTE4MjY1NTc4OTddfQ==
+eyJoaXN0b3J5IjpbMTI1MDI4OTc1MSwxNjczMTk0MDI1LC0xND
+Y1NjU5NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4NjU4ODEs
+NDY4NjU4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMT
+IyMCwxMTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNjM2MjczNzUx
+LC0xMTcyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1NSwtMT
+QxNjg3MDYzOCw4ODcxNjczNjQsLTU3NDY4OTgwOCwtMTgyNjU1
+Nzg5N119
 -->

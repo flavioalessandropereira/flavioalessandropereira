@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Flavio 👨‍💻
 
 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}]
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+
 
 
 <!--
@@ -19,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcyNjEzNDMsLTQzNzkxNjU4NSwxOT
-MwNjM0MzU1LC0xNDE2ODcwNjM4LDg4NzE2NzM2NCwtNTc0Njg5
-ODA4LC0xODI2NTU3ODk3XX0=
+eyJoaXN0b3J5IjpbMTY5MDQ5Njg3NywtNDM3OTE2NTg1LDE5Mz
+A2MzQzNTUsLTE0MTY4NzA2MzgsODg3MTY3MzY0LC01NzQ2ODk4
+MDgsLTE4MjY1NTc4OTddfQ==
 -->

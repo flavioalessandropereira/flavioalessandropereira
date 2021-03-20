@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Flavio 👨‍💻
 
 
-[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}]
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}]
 
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNDY3OTkxLC00Mzc5MTY1ODUsMTkzMD
-YzNDM1NSwtMTQxNjg3MDYzOCw4ODcxNjczNjQsLTU3NDY4OTgw
-OCwtMTgyNjU1Nzg5N119
+eyJoaXN0b3J5IjpbLTEyMDcyNjEzNDMsLTQzNzkxNjU4NSwxOT
+MwNjM0MzU1LC0xNDE2ODcwNjM4LDg4NzE2NzM2NCwtNTc0Njg5
+ODA4LC0xODI2NTU3ODk3XX0=
 -->

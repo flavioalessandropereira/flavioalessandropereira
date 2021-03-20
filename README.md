@@ -9,15 +9,11 @@
 
 </p> 
 
+
+
+
 [![](https://img.shields.io/badge/Yahoo-flavioapereira%40yahoo.com.br-blue)](mailto:flavioapereira@yahoo.com.br)
 
-
-<p align='center'>
-
-
-  <img src="https://img.shields.io/badge/Yahoo-flavioapereira@yahoo.com.br-%230071C5.svg?&style=for-the-badge&logoColor=white" />
- 
-</p>
 
 
 
@@ -55,11 +51,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MjYwNjAxLC0xMDE3MjMyMTg0LC0yMT
-QwODg0MTUsLTgwMDQxMjI4NSwtOTgyNjIxMDc4LDEyNTAyODk3
-NTEsMTY3MzE5NDAyNSwtMTQ2NTY1OTQ2LDM1NzY3ODAzMCwxNz
-g2MDEwNzEyLDQ2ODY1ODgxLDQ2ODY1ODgxLC0xOTQ0Mjc1NzYs
-MTk2ODE1MjY1NSwtNzA4MjEyMjAsMTE5NDc4MDY3MSwtMTU2MT
-E5MDU3NywtMTYzNjI3Mzc1MSwtMTE3MjEyNTUwNSwtNDM3OTE2
-NTg1XX0=
+eyJoaXN0b3J5IjpbMjAxMTQyMDY4MCwtMTAxNzIzMjE4NCwtMj
+E0MDg4NDE1LC04MDA0MTIyODUsLTk4MjYyMTA3OCwxMjUwMjg5
+NzUxLDE2NzMxOTQwMjUsLTE0NjU2NTk0NiwzNTc2NzgwMzAsMT
+c4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NTg4MSwtMTk0NDI3NTc2
+LDE5NjgxNTI2NTUsLTcwODIxMjIwLDExOTQ3ODA2NzEsLTE1Nj
+ExOTA1NzcsLTE2MzYyNzM3NTEsLTExNzIxMjU1MDUsLTQzNzkx
+NjU4NV19
 -->

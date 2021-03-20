@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 <!--
 **flavioalessandropereira/flavioalessandropereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MjY1NTc4OTddfQ==
 -->

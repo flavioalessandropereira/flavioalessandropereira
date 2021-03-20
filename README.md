@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  
 </p> 
-
+[![](https://img.shields.io/badge/LinkedIn-HelenAlevato-blue)](https://www.linkedin.com/in/helen-alevato/)
+[![](https://img.shields.io/badge/Gmail-helenalevato1994%40gmail.com-red)](mailto:helenalevato1994@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
   
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NT
-g4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDEx
-OTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNz
-IxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcw
-NjM4LDg4NzE2NzM2NCwtNTc0Njg5ODA4LC0xODI2NTU3ODk3XX
-0=
+eyJoaXN0b3J5IjpbLTE3OTgyNjQ0MzIsMTc4NjAxMDcxMiw0Nj
+g2NTg4MSw0Njg2NTg4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUs
+LTcwODIxMjIwLDExOTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2Mz
+YyNzM3NTEsLTExNzIxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0
+MzU1LC0xNDE2ODcwNjM4LDg4NzE2NzM2NCwtNTc0Njg5ODA4LC
+0xODI2NTU3ODk3XX0=
 -->

@@ -19,8 +19,7 @@
 
 
 
-[![](https://img.shields.io/badge/LinkedIn-HelenAlevato-blue)](https://www.linkedin.com/in/helen-alevato/)
-[![](https://img.shields.io/badge/Gmail-helenalevato1994%40gmail.com-red)](mailto:helenalevato1994@gmail.com)
+
 
 
 
@@ -43,10 +42,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4Nj
-U4ODEsNDY4NjU4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03
-MDgyMTIyMCwxMTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNjM2Mj
-czNzUxLC0xMTcyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1
-NSwtMTQxNjg3MDYzOCw4ODcxNjczNjQsLTU3NDY4OTgwOCwtMT
-gyNjU1Nzg5N119
+eyJoaXN0b3J5IjpbLTE0NjU2NTk0NiwzNTc2NzgwMzAsMTc4Nj
+AxMDcxMiw0Njg2NTg4MSw0Njg2NTg4MSwtMTk0NDI3NTc2LDE5
+NjgxNTI2NTUsLTcwODIxMjIwLDExOTQ3ODA2NzEsLTE1NjExOT
+A1NzcsLTE2MzYyNzM3NTEsLTExNzIxMjU1MDUsLTQzNzkxNjU4
+NSwxOTMwNjM0MzU1LC0xNDE2ODcwNjM4LDg4NzE2NzM2NCwtNT
+c0Njg5ODA4LC0xODI2NTU3ODk3XX0=
 -->

@@ -12,15 +12,9 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/flavioapereira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yahoo-flavioapereira%40yahoo.com.br-blue" />
   </a>&nbsp;&nbsp;
 </p> 
-
-
-
-[![](https://img.shields.io/badge/Yahoo-flavioapereira%40yahoo.com.br-blue)](mailto:flavioapereira@yahoo.com.br)
-
-
 
 
 <p align='center'>
@@ -57,11 +51,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NzExOTMwLC0xMDE3MjMyMTg0LC0yMT
-QwODg0MTUsLTgwMDQxMjI4NSwtOTgyNjIxMDc4LDEyNTAyODk3
-NTEsMTY3MzE5NDAyNSwtMTQ2NTY1OTQ2LDM1NzY3ODAzMCwxNz
-g2MDEwNzEyLDQ2ODY1ODgxLDQ2ODY1ODgxLC0xOTQ0Mjc1NzYs
-MTk2ODE1MjY1NSwtNzA4MjEyMjAsMTE5NDc4MDY3MSwtMTU2MT
-E5MDU3NywtMTYzNjI3Mzc1MSwtMTE3MjEyNTUwNSwtNDM3OTE2
-NTg1XX0=
+eyJoaXN0b3J5IjpbNDEzNjM0OTYxLDQ3NDcxMTkzMCwtMTAxNz
+IzMjE4NCwtMjE0MDg4NDE1LC04MDA0MTIyODUsLTk4MjYyMTA3
+OCwxMjUwMjg5NzUxLDE2NzMxOTQwMjUsLTE0NjU2NTk0NiwzNT
+c2NzgwMzAsMTc4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NTg4MSwt
+MTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDExOTQ3OD
+A2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNzIxMjU1
+MDVdfQ==
 -->

@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Flavio 👨‍💻
 
 [
-![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalepereira)
-](https://github.com/flavioalessandropereira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
 
 
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODMxNjI3NSwtMTE3MjEyNTUwNSwtND
-M3OTE2NTg1LDE5MzA2MzQzNTUsLTE0MTY4NzA2MzgsODg3MTY3
-MzY0LC01NzQ2ODk4MDgsLTE4MjY1NTc4OTddfQ==
+eyJoaXN0b3J5IjpbLTE2MzYyNzM3NTEsLTExNzIxMjU1MDUsLT
+QzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcwNjM4LDg4NzE2
+NzM2NCwtNTc0Njg5ODA4LC0xODI2NTU3ODk3XX0=
 -->

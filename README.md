@@ -13,7 +13,9 @@
 
 
 
-
+```
+<div align='center'>The derogatory term “scrub” means several different things. One definition is someone (especially a game player) who is not good at something (especially a game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I mean the term differently, though. A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about. A scrub does not play to win.</div>
+```
 
 
 
@@ -51,11 +53,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcyMzIxODQsLTIxNDA4ODQxNSwtOD
-AwNDEyMjg1LC05ODI2MjEwNzgsMTI1MDI4OTc1MSwxNjczMTk0
-MDI1LC0xNDY1NjU5NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsND
-Y4NjU4ODEsNDY4NjU4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1
-LC03MDgyMTIyMCwxMTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNj
-M2MjczNzUxLC0xMTcyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYz
-NDM1NV19
+eyJoaXN0b3J5IjpbMjA1NjQ4MTIyNCwtMTAxNzIzMjE4NCwtMj
+E0MDg4NDE1LC04MDA0MTIyODUsLTk4MjYyMTA3OCwxMjUwMjg5
+NzUxLDE2NzMxOTQwMjUsLTE0NjU2NTk0NiwzNTc2NzgwMzAsMT
+c4NjAxMDcxMiw0Njg2NTg4MSw0Njg2NTg4MSwtMTk0NDI3NTc2
+LDE5NjgxNTI2NTUsLTcwODIxMjIwLDExOTQ3ODA2NzEsLTE1Nj
+ExOTA1NzcsLTE2MzYyNzM3NTEsLTExNzIxMjU1MDUsLTQzNzkx
+NjU4NV19
 -->

@@ -9,8 +9,7 @@
 
 </p> 
 
-[![](https://img.shields.io/badge/Yahoo-flavioapereira@yahoo.com.br-red)](mailto:flavioapereira@yahoo.com.br)
-
+[![](https://img.shields.io/badge/Yahoo-flavioapereira%40yahoo.com.br-blue)](mailto:flavioapereira@yahoo.com.br)
 
 
 <p align='center'>
@@ -56,11 +55,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA4ODQxNSwtODAwNDEyMjg1LC05OD
-I2MjEwNzgsMTI1MDI4OTc1MSwxNjczMTk0MDI1LC0xNDY1NjU5
-NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4NjU4ODEsNDY4Nj
-U4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwx
-MTk0NzgwNjcxLC0xNTYxMTkwNTc3LC0xNjM2MjczNzUxLC0xMT
-cyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1NSwtMTQxNjg3
-MDYzOF19
+eyJoaXN0b3J5IjpbOTI0MjYwNjAxLC0yMTQwODg0MTUsLTgwMD
+QxMjI4NSwtOTgyNjIxMDc4LDEyNTAyODk3NTEsMTY3MzE5NDAy
+NSwtMTQ2NTY1OTQ2LDM1NzY3ODAzMCwxNzg2MDEwNzEyLDQ2OD
+Y1ODgxLDQ2ODY1ODgxLC0xOTQ0Mjc1NzYsMTk2ODE1MjY1NSwt
+NzA4MjEyMjAsMTE5NDc4MDY3MSwtMTU2MTE5MDU3NywtMTYzNj
+I3Mzc1MSwtMTE3MjEyNTUwNSwtNDM3OTE2NTg1LDE5MzA2MzQz
+NTVdfQ==
 -->

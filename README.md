@@ -5,11 +5,7 @@
 
 
 
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/abhisheknaiidu/)" rel="nofollow">
 
-<img align="left" alt="Abhishek's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)" style="max-width:100%;">
-
-</a>
 
 
 
@@ -29,8 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1ODY0Mjc1LC0xNjM2MjczNzUxLC0xMT
-cyMTI1NTA1LC00Mzc5MTY1ODUsMTkzMDYzNDM1NSwtMTQxNjg3
-MDYzOCw4ODcxNjczNjQsLTU3NDY4OTgwOCwtMTgyNjU1Nzg5N1
-19
+eyJoaXN0b3J5IjpbLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLT
+ExNzIxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2
+ODcwNjM4LDg4NzE2NzM2NCwtNTc0Njg5ODA4LC0xODI2NTU3OD
+k3XX0=
 -->

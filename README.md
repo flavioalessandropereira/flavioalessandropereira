@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Flavio 👨‍💻
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
+:[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)]:(https://www.linkedin.com/in/flavioapereira/)
 
 
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODE1MjY1NSwtNzA4MjEyMjAsMTE5ND
-c4MDY3MSwtMTU2MTE5MDU3NywtMTYzNjI3Mzc1MSwtMTE3MjEy
-NTUwNSwtNDM3OTE2NTg1LDE5MzA2MzQzNTUsLTE0MTY4NzA2Mz
-gsODg3MTY3MzY0LC01NzQ2ODk4MDgsLTE4MjY1NTc4OTddfQ==
-
+eyJoaXN0b3J5IjpbLTE2MTkyNjM4MTEsMTk2ODE1MjY1NSwtNz
+A4MjEyMjAsMTE5NDc4MDY3MSwtMTU2MTE5MDU3NywtMTYzNjI3
+Mzc1MSwtMTE3MjEyNTUwNSwtNDM3OTE2NTg1LDE5MzA2MzQzNT
+UsLTE0MTY4NzA2MzgsODg3MTY3MzY0LC01NzQ2ODk4MDgsLTE4
+MjY1NTc4OTddfQ==
 -->

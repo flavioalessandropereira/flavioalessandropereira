@@ -1,6 +1,6 @@
-**Hi there 👋 I'm Flavio 👨‍💻**
+fere
 
--
+---
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDc4MDY3MSwtMTU2MTE5MDU3NywtMT
-YzNjI3Mzc1MSwtMTE3MjEyNTUwNSwtNDM3OTE2NTg1LDE5MzA2
-MzQzNTUsLTE0MTY4NzA2MzgsODg3MTY3MzY0LC01NzQ2ODk4MD
-gsLTE4MjY1NTc4OTddfQ==
+eyJoaXN0b3J5IjpbLTExNDY3NDU3NjYsMTE5NDc4MDY3MSwtMT
+U2MTE5MDU3NywtMTYzNjI3Mzc1MSwtMTE3MjEyNTUwNSwtNDM3
+OTE2NTg1LDE5MzA2MzQzNTUsLTE0MTY4NzA2MzgsODg3MTY3Mz
+Y0LC01NzQ2ODk4MDgsLTE4MjY1NTc4OTddfQ==
 -->

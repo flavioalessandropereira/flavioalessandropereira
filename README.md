@@ -4,20 +4,11 @@
 
 <p align='center'>
   
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
   
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
+
 
 
 
@@ -41,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTcwNjE4NSw0Njg2NTg4MSw0Njg2NT
+eyJoaXN0b3J5IjpbMTcyNjQzNzg0Miw0Njg2NTg4MSw0Njg2NT
 g4MSwtMTk0NDI3NTc2LDE5NjgxNTI2NTUsLTcwODIxMjIwLDEx
 OTQ3ODA2NzEsLTE1NjExOTA1NzcsLTE2MzYyNzM3NTEsLTExNz
 IxMjU1MDUsLTQzNzkxNjU4NSwxOTMwNjM0MzU1LC0xNDE2ODcw

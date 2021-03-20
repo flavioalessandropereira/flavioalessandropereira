@@ -10,9 +10,9 @@
 </p> 
 [
 ![](https://img.shields.io/badge/Yahoo-flavioapereira%40yahoo.com.br-red)
-](mailto:fla@gmail.com)
+](mailto:flavioapereira@yahoo.com.br)
 
-[![](https://img.shields.io/badge/Gmail-helenalevato1994%40gmail.com-red)](mailto:helenalevato1994@gmail.com)
+[![](https://img.shields.io/badge/Yahoo-flavioapereira@yahoo.com.br-red)](mailto:helenalevato1994@gmail.com)
 
 
 <p align='center'>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDc2MTY5OCwtODAwNDEyMjg1LC05OD
+eyJoaXN0b3J5IjpbMTcyOTgzNDg4NywtODAwNDEyMjg1LC05OD
 I2MjEwNzgsMTI1MDI4OTc1MSwxNjczMTk0MDI1LC0xNDY1NjU5
 NDYsMzU3Njc4MDMwLDE3ODYwMTA3MTIsNDY4NjU4ODEsNDY4Nj
 U4ODEsLTE5NDQyNzU3NiwxOTY4MTUyNjU1LC03MDgyMTIyMCwx

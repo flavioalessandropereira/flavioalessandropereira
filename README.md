@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Flavio 👨‍💻
-
+![](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalessandropereira)
 <!--
 **flavioalessandropereira/flavioalessandropereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDY4OTgwOCwtNTc0Njg5ODA4LC0xOD
-I2NTU3ODk3XX0=
+eyJoaXN0b3J5IjpbODg3MTY3MzY0LC01NzQ2ODk4MDgsLTE4Mj
+Y1NTc4OTddfQ==
 -->

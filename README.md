@@ -12,7 +12,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/flavioapereira/">
-    <img src="https://img.shields.io/badge/email-flavioalessandropereira%40gmail.com-blue" />
+    <img src="https://img.shields.io/badge/email-flavioalessandropereira%40gmail.com-blue" target="_blank" />
   </a>&nbsp;&nbsp;
 </p> 
 

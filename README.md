@@ -5,7 +5,7 @@
 
 Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habilidades em HTML e CSS, enquanto no Back-End utilizo a linguagem Python em meus projetos.
 
-<a href="https://www.linkedin.com/in/flavioalessandropereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioalessandropereira@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioalessandropereira@gmail.com)
 
 ## 👨‍💻 Habilidades

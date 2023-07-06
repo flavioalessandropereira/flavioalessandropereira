@@ -1,37 +1,33 @@
 <h1 align='center'>
-  Hi there 👋 I'm Flavio 👨‍💻
-</h1>
+ Olá 👋 ! Sou Flavio Alessandro Pereira </h1>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/flavioapereira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-</p> 
-
-
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/flavioapereira/">
-    <img src="https://img.shields.io/badge/email-flavioalessandropereira%40gmail.com-blue"/>
-  </a>&nbsp;&nbsp;
-</p> 
-
-<h1 align='center'>
-# FLAVIO A PEREIRA
-</h1>
-## 🗨 Sobre mim
+ ## 🗨 Sobre mim
 
 Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habilidades em HTML e CSS, enquanto no Back-End utilizo a linguagem Python em meus projetos.
 
 
+<div>
+  <a href="https://www.linkedin.com/in/flavioapereira/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+
+<a href = "mailto:flavioalessandropereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
 ## 👨‍💻 Habilidades
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) 
+
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) 
+
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-![PyPI - Python Version](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-  
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flavioalessandropereira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 

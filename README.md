@@ -16,9 +16,9 @@
   </a>&nbsp;&nbsp;
 </p> 
 
-
+<h1 align='center'>
 # FLAVIO A PEREIRA
-
+</h1>
 ## 🗨 Sobre mim
 
 Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habilidades em HTML e CSS, enquanto no Back-End utilizo a linguagem Python em meus projetos.

@@ -17,6 +17,19 @@
 </p> 
 
 
+# FLAVIO A PEREIRA
+
+## 🗨 Sobre mim
+
+Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habilidades em HTML e CSS, enquanto no Back-End utilizo a linguagem Python em meus projetos.
+
+
+## 👨‍💻 Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+![PyPI - Python Version](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
   
 

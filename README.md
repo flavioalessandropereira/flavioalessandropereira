@@ -1,5 +1,5 @@
 <h1 align='center'>
- Olá 👋 ! Sou Flavio Alessandro Pereira </h1>
+ Olá 👋 ! Sou Flavio Pereira </h1>
 
  ## 🗨 Sobre mim
 

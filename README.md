@@ -7,8 +7,12 @@ Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habili
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/) | [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioalessandropereira@gmail.com) |
-|---|---|
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioalessandropereira@gmail.com)
+
+</div>
+
 
 </div>
 

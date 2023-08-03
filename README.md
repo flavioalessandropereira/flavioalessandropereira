@@ -5,7 +5,7 @@
 
 Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habilidades em HTML e CSS, enquanto no Back-End estudando a linguagem Python em meus projetos.
 
-##🌐 Socials:
+## 🌐 Socials:
 
 <div align="center">
 

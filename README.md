@@ -5,7 +5,7 @@
 
  ## 🗨 Sobre mim
 
-Tenho me dedicado à área de estudo na linguagem Python e Front-End ( HTML e CSS).
+Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS).
 
 ## 🌐 Socials:
 

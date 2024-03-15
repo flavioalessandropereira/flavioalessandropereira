@@ -7,6 +7,7 @@
 
 Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS).
 
+<br>
 ## 🌐 Social:
 
 <div align="center">

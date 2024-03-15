@@ -26,10 +26,17 @@ Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## 📄 Cursos & Certificados
-|                         |                                                            |
-|-------------------------|------------------------------------------------------------|
-|Formação Python Developer|[Certificado](https://www.dio.me/certificate/0D4037DB/share)|
-|Formação ChatGPT for Devs|[Certificado](https://www.dio.me/certificate/9C3BBAC1/share)|
+<table>
+  <tr>
+    <td>Formação Python Developer</td>
+    <td><a href="https://www.dio.me/certificate/0D4037DB/share">Certificado</a></td>
+  </tr>
+  <tr>
+    <td>Formação ChatGPT for Devs</td>
+    <td><a href="https://www.dio.me/certificate/9C3BBAC1/share">Certificado</a></td>
+  </tr>
+</table>
+
 
 ---------------
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flavioalessandropereira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

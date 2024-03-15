@@ -15,7 +15,7 @@ Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS
 
 </div>
 
-
+-------
 
 ## 👨‍💻 Habilidades
 
@@ -25,7 +25,10 @@ Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+--------
+
 ## 📄 Cursos & Certificados
+
 <table>
   <tr>
     <td>Formação Python Developer</td>

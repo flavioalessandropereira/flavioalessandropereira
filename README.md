@@ -27,6 +27,7 @@ Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS
 
 ## 📄 Cursos & Certificados
 |                         |                                                            |
+|-------------------------|------------------------------------------------------------|
 |Formação Python Developer|[Certificado](https://www.dio.me/certificate/0D4037DB/share)|
 |Formação ChatGPT for Devs|[Certificado](https://www.dio.me/certificate/9C3BBAC1/share)|
 

@@ -14,8 +14,6 @@ Tenho me dedicado à área de Desenvolvimento Front-End, aplicando minhas habili
 </div>
 
 
-</div>
-
 
 ## 👨‍💻 Habilidades
 

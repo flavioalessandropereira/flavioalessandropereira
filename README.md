@@ -42,6 +42,10 @@ Tenho me dedicado à área de estudo na linguagem Python e Front-End (HTML e CSS
     <td>Formação ChatGPT for Devs</td>
     <td><a href="https://www.dio.me/certificate/9C3BBAC1/share">Certificado</a></td>
   </tr>
+ <tr>
+  <td>Formação Github</td>
+  <td><a href="https://www.dio.me/certificate/7CMJWETL/share">Certificado</td>
+ </tr>
 </table>
 
 
